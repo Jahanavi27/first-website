@@ -16,3 +16,8 @@ function showName() {
         "Welcome " + name + "!";
 
 }
+function darkMode() {
+
+    document.body.classList.toggle("dark");
+
+}
